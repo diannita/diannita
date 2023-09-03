@@ -8,9 +8,8 @@
 - 🤔 I’m looking for help with **Back-end NodeJS Projects - adavanced development**
 - 💬 Ask me about **NodeJS, cybersecurity, python**
 - 📫 How to reach me: **ingeniera.dianam@gmail.com**
-- ⚡ Fun fact: **I Love to research and learn as much as love play drum and my family**
+- ⚡ Fun fact: **I Love to research and learn as much as love playing drum and my family**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## Connect with me
  [dianarodriguezcosme](https://www.linkedin.com/in/dianarodriguezcosme)
-</p>
+
