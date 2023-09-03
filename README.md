@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diana Rodriguez </h1>
 <h3 align="center">I am passionate about Cybersecurity, Server/Cloud administration and Software development (mobile, desktop, web and server).</h3>
 
+## About myself
 - 🔭 I’m currently working on **React and NodeJS Express** payments portal.
 - 🌱 I’m currently learning **Python, React, NodeJS, Vue**
 - 👯 I’m looking to collaborate on **Full stack development of the previous languages**
