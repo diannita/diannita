@@ -11,5 +11,5 @@
 - ⚡ Fun fact: **I Love to research and learn as much as love playing drum and my family**
 
 ## Connect with me
- [dianarodriguezcosme](https://www.linkedin.com/in/dianarodriguezcosme)
+ [linkedin => Diana Rodriguez Cosme](https://www.linkedin.com/in/dianarodriguezcosme)
 
